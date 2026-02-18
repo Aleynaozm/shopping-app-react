@@ -1,16 +1,34 @@
-# React + Vite
+#  Apple Market - Case Study
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Kullanılan Teknolojiler
 
-Currently, two official plugins are available:
+- **React:** Hooks (`useState`, `useEffect`) tabanlı fonksiyonel bileşenler.
+- **Vite:** Optimize edilmiş hızlı geliştirme ortamı.
+- **CSS3:** Custom Properties (Değişkenler) ve gelişmiş layout teknikleri.
+- **JavaScript (ES6+):** Temiz kod prensipleri ve verimli dizi manipülasyonları (`reduce`, `map`).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Proje Yapısı
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+shopping-app-react/
+│
+├── public/        → Statik dosyalar
+├── src/           → React bileşenleri ve uygulama kodları
+├── index.html     → Ana HTML dosyası
+├── package.json   → Proje bağımlılıkları
+└── vite.config.js → Vite yapılandırması
+```
+## Kurulum ve Kullanım
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Projeyi yerel makinenizde ayağa kaldırmak için:**
+- **Repoyu klonla:**
+- git clone https://github.com/Aleynaozm/shopping-app-react.git
+- **Proje klasörüne gir:**
+- cd shopping-app-react
+- **Bağımlılıkları yükle:**
+- npm install
+- **Uygulamayı başlat:**
+- npm run dev
+- **Tarayıcıda aç:**
