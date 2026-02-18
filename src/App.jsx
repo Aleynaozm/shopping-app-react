@@ -53,7 +53,7 @@ function App() {
 
       <main className="main-container">
         <header className="page-header">
-          <h1>Mağaza. <span style={{color: '#86868b'}}>Sevdiğiniz ürünlere ulaşmanın en iyi yolu.</span></h1>
+          <h1><span style={{color: '#86868b'}}>Tüm Apple ürünlerini inceleyin.</span></h1>
         </header>
         <div className="product-grid">
           {products.map((item) => (
