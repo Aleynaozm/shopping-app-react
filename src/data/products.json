@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 17",
+      "description": "Havacılık sınıfı titanyum tasarım. A17 Pro çip. Bugüne kadarki en gelişmiş iPhone kamera sistemi.",
+      "price": 74999,
+      "category": "iPhone",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-1-202509_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0OUFxWTdCbFhxa0dhaGFmNkNjSWxSb0FOL1haWCt6TDJ0UWlLb09XajVNdENYR1ZZZnEyMVlVQUliTThGMjNyaFN4MTNVU0FrSGRPbjQxdTdMMFNTYTBnWTRGR2xpS0I2cnhMYzZYallpSnFB&traceId=1"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 14",
+      "description": "M3 çip ile güçlendirildi. Liquid Retina XDR ekran ve profesyonel bağlantı noktalarıyla tam performans.",
+      "price": 62999,
+      "category": "Mac",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-macbook-pro-size-unselect-202601-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=aXlkdGF0T0RUUVdDckNLaUc0OEE0d2huNHI2YVc1MjYxWkRLa3k4U1gzZnMyWXE0MHdoZXVFRHRoTGRqNEREOHJUNGJWZ1llU1plZmhBekVhZm5NQnNqbWRhTGpRM2xxVWJRWUhSaDlCQ3A3cWhkazVFSkNaSzNwMHhJRnYza1FlODBad1VqYUZ3RW54YkRKL2hzbXVR&traceId=1"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Ultra 2",
+      "description": "Dayanıklılığın sınırlarını zorlayan titanyum kasa. 36 saate kadar pil ömrü ve hassas GPS.",
+      "price": 39999,
+      "category": "Watch",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-unselect-gallery-1-202509?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=WldDSmZlQ1ladGVha0lMWUJJK2M4ZHlVRllKam5abHNZRGludXlMbytKNUs0VDVpelJQc3lnS0NUUk44L0hxRlBPMVJocHRGWWdEaGFBbE5iRklMb1V1bEhkTE9wTm5MUHB5UTNxanYrU1FLWlhDb1MwbzRvVW12NWFVYzREWFg"
+    },
+    {
+      "id": 4,
+      "name": "iPad Pro",
+      "description": "M2 çipin gücüyle tanışın. Dünyanın en gelişmiş mobil ekranı ve Apple Pencil desteği.",
+      "price": 44999,
+      "category": "iPad",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=cXN0QTVTNDBtbGIzcy91THBPRThnNE5sSFgwakNWNmlhZ2d5NGpHdllWY09WV3R2ZHdZMXRzTjZIcWdMTlg4eUJQYkhSV3V1dC9oa0s5K3lqMGtUaFYrNkhvSzBtcy9ubWtTZUpaU0lsQ2R1Yy9kL1dQa3EzdWh4Nzk1ZnZTYWY&traceId=1"
+    },
+    {
+      "id": 5,
+      "name": "AirPods Max",
+      "description": "Yüksek sadakatli ses. Aktif Gürültü Engelleme ve Şeffaf Mod ile büyüleyici bir deneyim.",
+      "price": 24849,
+      "category": "Audio",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-hero-select-202409?wid=976&hei=916&fmt=jpeg&qlt=90&.v=WXBZVEZCOUNiUWlBYUtjZmtBc0J2N1V1ZldxRmdZVjlvL2IxaEY3dzY3SG0ybW5TK3prTnlNTURRc1V2clYydHZvdUZlR0V0VUdJSjBWaDVNVG95YkJTUUExTVpiaXRIUnFOM1YxY0hPWFU"
+    },
+      {
+      "id": 6,
+      "name": "iMac",
+      "description": "M3 çipin hızıyla renklenin. İncecik tasarım ve 4.5K Retina ekran ile stüdyo kalitesi.",
+      "price": 59999,
+      "category": "Mac",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/imac-color-unselect-202601-gallery-1?wid=5120&hei=3280&fmt=webp&qlt=90&.v=YUhqSVNUTWk1djNVekVIdjhjMjArWDZwVTFScmpKbWRKUXNHNFhkOTgxUFZLS3lIUGwzYkE4SUUyTWVEZVZ1N25WOGRHQ3ZYRTFSbWtOcmtMWGxEbjlhRFhkTmFuNjdhaXFYRk5kRkZrTkFmZzNKVTlPNE1sTXZ6Q09ZVHU4VVc&traceId=1"
+    }
+  ]
